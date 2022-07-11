@@ -211,7 +211,7 @@ score=0;
 	
 	
 	
-/* Level 4  */
+
 	for (int Y=1 ; j!=2 && Y!=2 ; Y++)
 	{
 	
