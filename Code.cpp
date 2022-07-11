@@ -94,7 +94,7 @@ score=0;
 	}
 	
 	
-/* Level 2 */
+
 	
 		for (int Y=1 ; j!=2 && Y!=2 ; Y++)
 		{
