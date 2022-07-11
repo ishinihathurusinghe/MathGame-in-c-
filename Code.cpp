@@ -9,7 +9,7 @@
 #include <cstdio>
 
 
-using namespace std;
+using namespace std
 
 int j;
 int score(0);
