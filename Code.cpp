@@ -25,7 +25,6 @@ j=0;
 score=0;
 
 
-
 	{
 	Beep(0,300);Beep(2000,100);
 	cout<<"Welcome to";
