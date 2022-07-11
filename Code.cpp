@@ -45,7 +45,7 @@ score=0;
 	}
 
 
-/* Level 1 */
+
 	{
 		cout << "LEVEL 1 : Adding Quiz ( YOU HAVE ONLY 5 SECONDS TO SOLVE EACH QUESTION )\n-----------------------------------------------------------------------\n\n";
 		Beep(0,4000);
