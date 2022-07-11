@@ -8,7 +8,6 @@
 #include <iomanip>
 #include <cstdio>
 
-
 using namespace std;
 
 int j;
